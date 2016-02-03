@@ -10,7 +10,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>com.test.demo</module>
+        <module>com.test.java</module>
         <module>com.test.web</module>
     </modules>
 
